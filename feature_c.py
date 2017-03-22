@@ -1,4 +1,4 @@
 #----------------------------------------------------------------------
-def feature_b():
+def feature_c():
     """"""
-    print 'feature_b'
+    print 'feature_c'

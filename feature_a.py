@@ -4,11 +4,11 @@ def before():
     print 'before'
 
 #----------------------------------------------------------------------
-def feature():
+def feature_a():
     """"""
-    print 'feature'
+    print 'feature_a'
     
 #----------------------------------------------------------------------
 def after():
     """"""
-    print 'after'
+    print 'after a'
